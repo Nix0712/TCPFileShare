@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/TCPShare-Client.dir/link.d "CMakeFiles/TCPShare-Client.dir/src/client.cpp.o" -o TCPShare-Client

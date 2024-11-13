@@ -1,0 +1,4 @@
+/home/Nix0712/Project/TCPShare/build/CMakeFiles/TCPShare-Client.dir
+/home/Nix0712/Project/TCPShare/build/CMakeFiles/TCPShare-Server.dir
+/home/Nix0712/Project/TCPShare/build/CMakeFiles/edit_cache.dir
+/home/Nix0712/Project/TCPShare/build/CMakeFiles/rebuild_cache.dir
