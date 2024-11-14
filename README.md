@@ -1,5 +1,7 @@
 ### **Simple File Sharing Using TCP Connection**
 
+*Note: This project is currently a work in progress.*
+
 #### **1. How to Build?**
 
 To get started, ensure that **CMake** and **Make** are installed on your system. Follow these steps to build the project:
